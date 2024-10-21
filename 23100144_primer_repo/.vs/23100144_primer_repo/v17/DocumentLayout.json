@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ingelaptop\\Documents\\GitHub\\nuevo-repo\\23100144_primer_repo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05C943ED-FF8F-4B7B-9B90-D0B2B6D73D8D}|23100144_primer_repo.csproj|c:\\users\\ingelaptop\\documents\\github\\nuevo-repo\\23100144_primer_repo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C943ED-FF8F-4B7B-9B90-D0B2B6D73D8D}|23100144_primer_repo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ingelaptop\\Documents\\GitHub\\nuevo-repo\\23100144_primer_repo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ingelaptop\\Documents\\GitHub\\nuevo-repo\\23100144_primer_repo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T23:01:23.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

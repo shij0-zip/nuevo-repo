@@ -1,0 +1,7 @@
+C:\Users\ingelaptop\Documents\GitHub\nuevo-repo\23100144_primer_repo\bin\Debug\23100144_primer_repo.exe.config
+C:\Users\ingelaptop\Documents\GitHub\nuevo-repo\23100144_primer_repo\bin\Debug\23100144_primer_repo.exe
+C:\Users\ingelaptop\Documents\GitHub\nuevo-repo\23100144_primer_repo\bin\Debug\23100144_primer_repo.pdb
+C:\Users\ingelaptop\Documents\GitHub\nuevo-repo\23100144_primer_repo\obj\Debug\23100144_primer_repo.csproj.AssemblyReference.cache
+C:\Users\ingelaptop\Documents\GitHub\nuevo-repo\23100144_primer_repo\obj\Debug\23100144_primer_repo.csproj.CoreCompileInputs.cache
+C:\Users\ingelaptop\Documents\GitHub\nuevo-repo\23100144_primer_repo\obj\Debug\23100144_primer_repo.exe
+C:\Users\ingelaptop\Documents\GitHub\nuevo-repo\23100144_primer_repo\obj\Debug\23100144_primer_repo.pdb
